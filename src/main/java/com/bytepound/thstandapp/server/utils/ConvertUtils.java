@@ -1,6 +1,6 @@
 package com.bytepound.thstandapp.server.utils;
 
-import com.bytepound.thstandapp.server.model.constant.ErrorCode;
+import com.bytepound.thstandapp.business.model.constant.ErrorCode;
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.core.type.TypeReference;
