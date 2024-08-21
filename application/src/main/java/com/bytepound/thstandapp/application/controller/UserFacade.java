@@ -9,7 +9,7 @@ import com.bytepound.thstandapp.business.model.BizException;
 import com.bytepound.thstandapp.business.model.CommonResult;
 import com.bytepound.thstandapp.application.service.LoginService;
 import com.bytepound.thstandapp.application.service.UserService;
-import com.bytepound.thstandapp.business.util.Ip2RegionUtil;
+import com.bytepound.thstandapp.application.util.Ip2RegionUtil;
 import com.bytepound.thstandapp.business.util.IpUtil;
 import jakarta.annotation.Resource;
 import jakarta.servlet.http.HttpServletRequest;

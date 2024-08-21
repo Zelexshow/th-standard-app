@@ -21,7 +21,8 @@ public enum ErrorCode {
 
     //成功
     SUCCESS("0", "success", "成功！"),
-    SERVER_ERROR("999", "Server Internal Error: {0}", "系统异常！");
+    SERVER_ERROR("999", "Server Internal Error: {0}", "系统异常！"),
+    INVALID_PARAMS("1001", "invalid params: {0}", "参数异常！");
 
     private final String code;
 
