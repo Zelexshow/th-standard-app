@@ -1,6 +1,6 @@
 package com.bytepound.thstandapp.application.rsp;
 
-import com.bytepound.thstandapp.business.model.login.IpLocationInfo;
+import com.bytepound.thstandapp.common.model.login.IpLocationInfo;
 import lombok.Data;
 
 import java.io.Serializable;

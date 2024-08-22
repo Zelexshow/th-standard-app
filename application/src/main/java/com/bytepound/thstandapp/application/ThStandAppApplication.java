@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @Slf4j
 @SpringBootApplication(scanBasePackages = "com.bytepound.thstandapp")
-@MapperScan("com.bytepound.thstandapp.business.repository.mysql.dao")
+@MapperScan("com.bytepound.thstandapp.common.repository.mysql.dao")
 public class ThStandAppApplication {
 
     public static void main(String[] args) {

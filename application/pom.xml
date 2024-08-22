@@ -22,7 +22,7 @@
 
         <dependency>
             <groupId>com.bytepound.thstandapp</groupId>
-            <artifactId>business</artifactId>
+            <artifactId>common</artifactId>
             <version>${project.version}</version>
         </dependency>
 

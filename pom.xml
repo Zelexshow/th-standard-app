@@ -12,7 +12,7 @@
 
     <modules>
         <module>application</module>
-        <module>business</module>
+        <module>common</module>
     </modules>
 
     <properties>
